@@ -6,7 +6,7 @@
 
 <h2>Currently</h2>
 
-- Fourth-year PhD student in Environmental Modeling at the Hebrew University of Jerusalem. 
+- Fourth-year PhD student in Environmental Modeling at the Hebrew University of Jerusalem ([Yair Mau's Research Group](https://yairmau.com/)). 
 - Communications Manager at [Hebrew University Center for Sustainability](https://sustainability.huji.ac.il/)
 - Teaching Assistant for Intro to Datascience and Physics courses.
 
