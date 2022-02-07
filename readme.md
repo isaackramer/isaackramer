@@ -22,9 +22,11 @@
 
 - I use mathematical modeling to study how climate change and water scarcity will affect the risk of soil degradation in coming decades. 
 - I focus particularly on how saline and sodic conditions can lead to irreversible changes in soil hydraulic conductivity, threatening future agriculture production.
+
 ![Alt Text](movie.gif)
+
 - I also have a project focusing on how rising Israeli population levels will impact future water supply/demand.
-- My recently published articles are available on Google Scholar [<img src="google-scholar.svg" width="25">](https://scholar.google.com/citations?user=ofAXJ1sAAAAJ&hl=en) 
+- My recently published articles are available on Google Scholar [<img src="google-scholar.png" width="25">](https://scholar.google.com/citations?user=ofAXJ1sAAAAJ&hl=en) 
 
 
 <h2>Past work</h2>
