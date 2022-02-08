@@ -1,8 +1,4 @@
 ![Isaac Kramer Banner Image](banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
-
-<!-- [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers) -->
 
 <h2>Currently</h2>
 
@@ -29,24 +25,6 @@
 
 - I worked for national and international policy organizations in Washington, DC and served as US Peace Corps Volunteer in Malawi.
 - Check out [my resume](https://drive.google.com/file/d/1VylYvDixBbrfSL8n284RNk0OL_XT38BO/view?usp=sharing) for more details.
-
-
-<!-- __Check out my GitHub repositories:__
-
-<div>
-  <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-<div> -->
-
-  
 
 
 <h2> More About Me</h2>
